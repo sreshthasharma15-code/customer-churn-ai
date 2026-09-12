@@ -1,86 +1,86 @@
-## Strategy 1 — Month-to-Month Plus Fiber Optic Retention
+## Strategy 1 — Fiber First
 
 **Priority:** 1
 
-**Target Segment:** Customers with Month-to-Month + Fiber Optic contracts
+**Target Segment:** Month-to-month + Fiber optic customers
 
-**Observed Evidence:** 54.61% churn rate
+**Observed Evidence:** The segment shows elevated observed churn with 54.61% churn rate.
 
-**Recommended Intervention:** Offer a discounted rate on a 1-year contract for customers with Month-to-Month + Fiber Optic plans
+**Recommended Intervention:** Offer a complimentary fiber upgrade to customers on month-to-month plans.
 
 **Business Actions:**
 
-1. Identify all customers with Month-to-Month + Fiber Optic plans and offer a discounted rate on a 1-year contract
-2. Automate the upgrade process to ensure seamless transition
-3. Provide clear and concise communication about the benefits of locking in a longer contract
-4. Monitor customer satisfaction and adjust pricing as needed
+1. Identify customers who are eligible for a fiber upgrade.
+2. Provide a clear and concise explanation of the benefits of fiber.
+3. Offer a special promotion or discount to incentivize upgrades.
+4. Train customer service representatives to effectively communicate the upgrade offer.
 
-**Hypothesis:** This intervention could reduce churn among customers with Month-to-Month + Fiber Optic plans by offering a more stable and cost-effective option.
+**Hypothesis:** We hypothesize that offering a complimentary fiber upgrade will reduce churn among month-to-month customers.
 
-**Experiment Design:** Compare the churn rate of customers with Month-to-Month + Fiber Optic plans who accept the offer to a control group of customers who do not receive the offer. Measure the difference in churn rates over a 12-month period.
+**Experiment Design:** Compare the churn rate of customers who receive the fiber upgrade offer to those who do not.
 
 **Success Metrics:**
 
-1. Churn rate of customers with Month-to-Month + Fiber Optic plans
-2. Number of customers who upgrade to a 1-year contract
-3. Customer satisfaction rating
+1. Churn rate reduction among month-to-month + fiber optic customers.
+2. Customer satisfaction with the upgrade offer.
+3. Number of upgrades offered.
 
-**Assumptions / Limitations:** The dataset does not account for individual customer needs and preferences, and the effectiveness of the intervention may vary depending on customer demographics and behavior.
+**Assumptions / Limitations:** The dataset does not tell us why customers churn in this segment. Additional validation would be needed to understand the underlying reasons for churn and ensure the intervention addresses the root cause.
 
-## Strategy 2 — Month-to-Month Plus Electronic Check Retention
+## Strategy 2 — Electronic Check Support
 
 **Priority:** 2
 
-**Target Segment:** Customers with Month-to-Month + Electronic Check contracts
+**Target Segment:** Month-to-month + Electronic check customers
 
-**Observed Evidence:** 53.73% churn rate
+**Observed Evidence:** The segment shows elevated observed churn with 53.73% churn rate.
 
-**Recommended Intervention:** Implement a digital payment option for customers with Month-to-Month + Electronic Check plans
+**Recommended Intervention:** Implement a dedicated technical support team for customers who use electronic checks.
 
 **Business Actions:**
 
-1. Offer digital payment options, such as PayPal or credit card, as an alternative to electronic check
-2. Automate the payment processing system to reduce manual entry and errors
-3. Communicate the benefits of digital payment, including reduced fees and increased security
-4. Provide training and support for customers to help them transition to digital payment
+1. Identify customers who use electronic checks and assign them to the new support team.
+2. Train the support team to effectively address common issues related to electronic check usage.
+3. Provide clear communication channels for customers to report issues and receive support.
+4. Monitor customer feedback and adjust the support team's response times as needed.
 
-**Hypothesis:** This intervention could reduce churn among customers with Month-to-Month + Electronic Check plans by offering a more convenient and secure payment option.
+**Hypothesis:** We hypothesize that providing dedicated technical support for electronic check users will reduce churn among this segment.
 
-**Experiment Design:** Compare the churn rate of customers with Month-to-Month + Electronic Check plans who adopt digital payment to a control group of customers who do not adopt digital payment. Measure the difference in churn rates over a 12-month period.
+**Experiment Design:** Compare the churn rate of customers who receive dedicated technical support to those who do not.
 
 **Success Metrics:**
 
-1. Adoption rate of digital payment among customers with Month-to-Month + Electronic Check plans
-2. Churn rate of customers with Month-to-Month + Electronic Check plans
-3. Customer satisfaction rating
+1. Churn rate reduction among month-to-month + electronic check customers.
+2. Customer satisfaction with technical support.
+3. Number of technical support requests resolved.
 
-**Assumptions / Limitations:** The dataset does not account for individual customer preferences and behavior, and the effectiveness of the intervention may vary depending on customer demographics and behavior.
+**Assumptions / Limitations:** The dataset does not tell us why customers churn in this segment. Additional validation would be needed to understand the underlying reasons for churn and ensure the intervention addresses the root cause.
 
-## Strategy 3 — First 12 Months Retention
+## Strategy 3 — First-Year Support
 
 **Priority:** 3
 
-**Target Segment:** Customers with Tenure <= 12 months
+**Target Segment:** Customers in their first 12 months
 
-**Observed Evidence:** 47.44% churn rate
+**Observed Evidence:** The segment shows elevated observed churn with 47.44% churn rate.
 
-**Recommended Intervention:** Offer a loyalty program with exclusive benefits and rewards for customers who complete 12 months of service
+**Recommended Intervention:** Offer a complimentary 30-day warranty and dedicated technical support for the first 12 months of service.
 
 **Business Actions:**
 
-1. Develop and launch a loyalty program with exclusive benefits and rewards for customers who complete 12 months of service
-2. Communicate the benefits of the loyalty program, including discounts and priority support
-3. Provide clear and concise instructions on how to enroll in the loyalty program
-4. Monitor customer engagement and adjust the program as needed
+1. Identify customers in their first 12 months and offer the complimentary warranty and technical support.
+2. Train customer service representatives to effectively communicate the warranty and support offer.
+3. Provide clear communication channels for customers to report issues and receive support.
+4. Monitor customer feedback and adjust the warranty and support offer as needed.
 
-**Hypothesis:** This intervention could reduce churn among customers with Tenure <= 12 months by offering a sense of accomplishment and exclusive rewards for completing a milestone.
+**Hypothesis:** We hypothesize that offering a complimentary warranty and dedicated technical support for the first 12 months will reduce churn among new customers.
 
-**Experiment Design:** Compare the churn rate of customers with Tenure <= 12 months who enroll in the loyalty program to a control group of customers who do not enroll. Measure the difference in churn rates over a 12-month period.
+**Experiment Design:** Compare the churn rate of customers who receive the complimentary warranty and technical support to those who do not.
 
 **Success Metrics:**
 
-1. Enroll rate in the loyalty program among customers with Tenure <= 12 months
-2. Churn rate of customers with Tenure <= 12 months
-3. Customer satisfaction rating
+1. Churn rate reduction among customers in their first 12 months.
+2. Customer satisfaction with the warranty and support offer.
+3. Number of customers who upgrade to a longer-term contract within the first 12 months.
 
-**Assumptions / Limitations:** The dataset does not account for individual customer preferences and behavior, and the effectiveness of the intervention may vary depending on customer demographics and behavior.
+**Assumptions / Limitations:** The dataset does not tell us why customers churn in this segment. Additional validation would be needed to understand the underlying reasons for churn and ensure the intervention addresses the root cause.
